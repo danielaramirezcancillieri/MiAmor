@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fondamento:ital@0;1&family=Italianno&family=Playwrite+IE:wght@100..400&display=swap');
+body {
+main{background-color: white; opacity: 0.85;}
+a {color: rgb(59, 59, 204);}
+article, a, h2 {font-family: "Italianno", cursive;}
+p, li {font-family: "Playwrite IE", cursive;}
+header {text-align:center;  font-family: "Fondamento", cursive;}
+footer { text-align:right;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
